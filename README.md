@@ -13,8 +13,10 @@ Si apre da computer e da telefono, senza installare niente.
 
 ## Cosa c'è nel sito
 
-- **Menu completo**: tutti i piatti con numero, ingredienti, prezzo e foto, divisi per categoria, con ricerca per nome, ingrediente o numero.
-- **Ordine da asporto**: si scelgono i piatti e l'orario di ritiro, e l'ordine parte su WhatsApp già scritto, con il totale.
+- **Menu completo**: tutti i piatti con numero, ingredienti, prezzo e foto. La barra delle categorie porta subito alla sezione e mostra dove ti trovi. Ricerca per nome, ingrediente o numero (tasto `/` da computer), anche condivisibile via link, per esempio `?q=anatra`.
+- **Foto dei piatti**: si aprono in grande e si sfogliano con le frecce o con lo swipe.
+- **Ordine da asporto**: si scelgono i piatti e l'orario di ritiro ("Appena possibile" quando il ristorante è aperto), e l'ordine parte su WhatsApp già scritto, con il totale. Si può annullare la rimozione di un piatto, svuotare l'ordine e ripetere l'ultimo ordine.
+- **Consegna a domicilio**: link alla pagina Deliveroo del ristorante.
 - **Prenotazione tavoli**: modulo con data, orario e numero di persone, inviato su WhatsApp.
 - **Orari e stato "aperto/chiuso"** aggiornati in tempo reale, mappa e indicazioni stradali.
 - Funziona bene su telefono e rispetta le regole di accessibilità.
